@@ -1,5 +1,8 @@
 # AwesomeCamera #
 
+Repositório do post sobre React Native Image Picker.
+Link do post: https://gusbdev.medium.com/uso-de-c%C3%A2mera-no-react-native-3917ef1de182
+
 ##### PT-BR #####
 
 Criei um aplicativo simples que demonstra como o React Native Image Picker funciona. Abaixo, você encontrará o procedimento básico de construção.
